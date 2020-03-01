@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>0ab2f3cd2f9b8010f7be59ab2799b613</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <orientation>horizontal</orientation>
+        <required_roles>public</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>victoria</sys_created_by>
+        <sys_created_on>2020-02-29 20:36:54</sys_created_on>
+        <sys_id>cab2b7cd2f9b8010f7be59ab2799b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stores</sys_name>
+        <sys_package display_value="Shophing list" source="x_7901_shophing_li">01003b892f9b8010f7be59ab2799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shophing list">01003b892f9b8010f7be59ab2799b681</sys_scope>
+        <sys_update_name>sys_sg_icon_section_cab2b7cd2f9b8010f7be59ab2799b607</sys_update_name>
+        <sys_updated_by>victoria</sys_updated_by>
+        <sys_updated_on>2020-02-29 20:36:54</sys_updated_on>
+        <table/>
+        <title>Stores</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

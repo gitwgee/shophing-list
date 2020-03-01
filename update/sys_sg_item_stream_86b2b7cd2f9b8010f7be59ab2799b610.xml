@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Shophing list Shopping Item">c6b2b7cd2f9b8010f7be59ab2799b609</data_item>
+        <interleaved_field/>
+        <name>Shopping Item Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>victoria</sys_created_by>
+        <sys_created_on>2020-02-29 20:36:54</sys_created_on>
+        <sys_id>86b2b7cd2f9b8010f7be59ab2799b610</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Shopping Item Item Stream</sys_name>
+        <sys_package display_value="Shophing list" source="x_7901_shophing_li">01003b892f9b8010f7be59ab2799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shophing list">01003b892f9b8010f7be59ab2799b681</sys_scope>
+        <sys_update_name>sys_sg_item_stream_86b2b7cd2f9b8010f7be59ab2799b610</sys_update_name>
+        <sys_updated_by>victoria</sys_updated_by>
+        <sys_updated_on>2020-02-29 20:54:32</sys_updated_on>
+        <table>x_7901_shophing_li_shopping_item</table>
+    </sys_sg_item_stream>
+</record_update>
